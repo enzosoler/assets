@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Soler;Enzo;;;
+FN:Enzo Soler
+ORG:Enzo Soler
+TITLE:AI-Driven Sales Leader
+TEL;TYPE=CELL,VOICE:+55 11 99940 1910
+EMAIL;TYPE=INTERNET,PREF:inbox@enzosoler.com
+URL;TYPE=WORK:https://enzosoler.com
+item1.URL:https://linkedin.com/in/enzosoler
+item1.X-ABLabel:LinkedIn
+item2.URL:https://instagram.com/enzosoler
+item2.X-ABLabel:Instagram
+item3.URL:https://github.com/enzosoler
+item3.X-ABLabel:GitHub
+PHOTO;VALUE=uri:https://raw.githubusercontent.com/enzosoler/assets/main/hea
+ dshot.jpg
+END:VCARD
